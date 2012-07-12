@@ -7,7 +7,7 @@ layout: default
   {% for post in site.posts limit: 2 %}
   <article class="content">
     <section class="title">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
     </section>
     <section class="meta">
     <span class="time">
@@ -16,7 +16,7 @@ layout: default
     {% if post.tags %}
     <span class="tags">
       {% for tag in post.tags %}
-      <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+      <a href="{{ site.url }}/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
       {% endfor %}
     </span>
     {% endif %}
