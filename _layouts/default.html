@@ -9,10 +9,10 @@
     <title>{{ site.name }}</title>
     {% endif %}
     <link rel="shortcut icon" href="/blog/favicon.ico">
-    <link href="/blog/atom.xml" rel="alternate" title="setImpl" type="application/atom+xml" />
-    <link rel="stylesheet" href="/blog/media/css/style.css">
-    <link rel="stylesheet" href="/blog/media/css/github.css">
-    <script type="text/javascript" src="/blog/media/js/highlight.pack.js"></script>
+    <link href="{{ site.url }}/atom.xml" rel="alternate" title="SilentListener" type="application/atom+xml" />
+    <link rel="stylesheet" href="{{ site.url }}/media/css/style.css">
+    <link rel="stylesheet" href="{{ site.url }}/media/css/github.css">
+    <script type="text/javascript" src="{{ site.url }}/media/js/highlight.pack.js"></script>
     <script type="text/javascript">
       hljs.initHighlightingOnLoad();
     </script>
@@ -23,19 +23,17 @@
           <div id="header">
             <h1><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>
             <nav>
-              <span><a title="archive" class="" href="/blog/archive.html">archive</a></span>
-              <span><a title="tags" class="" href="/blog/tags.html">tags</a></span>
-              <span><a title="about" class="" href="/blog/about.html">about me</a></span>
-              <span><a title="500px" class="" href="http://41mm.lhzhang.com">gallery</a></span>
-              <span><a title="blogroll" class="" href="/blog/links.html">links</a></span>
-              <span><a title="subscribe me" class="" href="/blog/atom.xml">feed</a></span>
+              <span><a title="archive" class="" href="{{ site.url }}/archive.html">archive</a></span>
+              <span><a title="tags" class="" href="{{ site.url }}/tags.html">tags</a></span>
+              <span><a title="about" class="" href="{{ site.url }}/about.html">about me</a></span>
+              <span><a title="subscribe me" class="" href="{{ site.url }}/atom.xml">feed</a></span>
             </nav>
           </div>
         </header>
         <div id="content">
         {{ content }}
         </div>
-        <footer>&copy; 2006 ~ 2012 wayne | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext iv">sext iv</a> | fork <a href="https://github.com/waynezhang/blog" title="fork me">me</a></footer>
+        <footer>&copy; 2006 ~ 2012 wayne | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext iv">sext iv</a> | fork <a href="https://github.com/cccrystalyy/blog" title="fork me">me</a></footer>
       </div> <!-- main -->
   </body>
 </html>

@@ -1,7 +1,6 @@
 ---
 title: 正片负片一个都不能少
 layout: post
-guid: urn:uuid:c762d7b8-191e-49f6-95ae-442faee0267e
 tags:
   - fujifilm
   - camera

@@ -28,7 +28,7 @@ layout: default
   {% endfor %}
   </ul>
   <div class="center">
-  <a href="/archive.html" class="circle-wrapper">
+  <a href="{{ site.url }}/archive.html" class="circle-wrapper">
   <div class="circle">&nbsp;</div>
   <div class="circle">&nbsp;</div>
   <div class="circle">&nbsp;</div>

@@ -1,5 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: setImpl
+name: SilentListener
 markdown: rdiscount
+url: cccrystalyy.github.com/blog
+author: Yangyang Zhao
