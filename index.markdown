@@ -21,10 +21,8 @@ layout: default
     </span>
     {% endif %}
     </section>
-    <section class="post">
-    {{ post.content }}
-    </section>
-    </article>
+
+  </article>
   {% endfor %}
   </ul>
   <div class="center">
