@@ -23,6 +23,12 @@ body {
   font-family: "Overlock","Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   color: #555555;
   background-image: url("/blog/media/css/bg.png"); }
+h1,h2,h3,h4,h5,h6{
+  margin:0;
+  font-family:inherit;
+  font-weight:bold;
+  color:inherit;
+  text-rendering:optimizelegibility}
 
 a {
   text-decoration: none; }
