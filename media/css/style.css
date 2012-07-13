@@ -148,6 +148,10 @@ ol, ul {
       #content .meta .tags a:hover {
         color: #999999; }
 
+.btn {
+  border-color: #ccc;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
 .comment {
   margin-top: 2em; }
 
