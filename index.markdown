@@ -16,7 +16,7 @@ layout: default
     {% if post.tags %}
     <span class="tags">
       {% for tag in post.tags %}
-      <a class="label label-success" href="/blog/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+      <a class="label label-info" href="/blog/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
       {% endfor %}
     </span>
     {% endif %}

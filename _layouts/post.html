@@ -13,7 +13,7 @@ layout: default
   {% if page.tags %}
   <span class="tags">
     {% for tag in page.tags %}
-    <a class="label label-success" href="/blog/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+    <a class="label" href="/blog/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
     {% endfor %}
   </span>
   {% endif %}
