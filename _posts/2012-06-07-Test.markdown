@@ -6,3 +6,7 @@ tags:
   - Test
 ---
 我了个艹啊
+
+
+<span class="btn">Default</span> <span class="btn btn-success">Success</span> <span class="btn btn-warning">Warning</span> <span class="btn btn-important">Important</span> <span class="btn btn-info">Info</span>
+
