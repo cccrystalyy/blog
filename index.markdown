@@ -13,6 +13,7 @@ layout: default
     <span class="time">
       <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     </span>
+    <br />
     {% if post.tags %}
     <span class="tags">
       {% for tag in post.tags %}
