@@ -10,3 +10,4 @@ tags:
 
 <span class="btn">Default</span> <span class="btn btn-success">Success</span> <span class="btn btn-warning">Warning</span> <span class="btn btn-important">Important</span> <span class="btn btn-info">Info</span>
 
+<span class="label">Default</span> <span class="label label-success">Success</span> <span class="label label-warning">Warning</span> <span class="label label-important">Important</span> <span class="label label-info">Info</span>
