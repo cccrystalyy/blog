@@ -8,7 +8,3 @@ tags:
   - Graphic
   - VS2012
 ---
-
-
-Building pbrt with VS2012
-=========================
