@@ -20,7 +20,7 @@ tags:
 <span class="label label-warning">注意</span>: windows api里也有个文件叫做parser.cpp 和pbrt里的parser.cpp同名，所以需要将windows api的path 放在最后，这样编译的时候就会优先使用pbrt的api。
 
 <span class="btn btn-success">Bison&Flex</span>  
-这两个是将yacc和lex编译成C语言文件的工具(词义和语法分析工具)。虽然说明上说如果你不修改pbrt parser的话不需要安装这个部分，但是实际上没有这个是无法编译libpbrt的。安装很简单，下载链接在这里: [Bison](http://gnuwin32.sourceforge.net/packages/bison.htm)[Flex](http://gnuwin32.sourceforge.net/packages/flex.htm).不过要注意安装路径的选择:
+这两个是将yacc和lex编译成C语言文件的工具(词义和语法分析工具)。虽然说明上说如果你不修改pbrt parser的话不需要安装这个部分，但是实际上没有这个是无法编译libpbrt的。安装很简单，下载链接在这里: [Bison](http://gnuwin32.sourceforge.net/packages/bison.htm), [Flex](http://gnuwin32.sourceforge.net/packages/flex.htm).不过要注意安装路径的选择:
 >Do not install under "Program Files" or "Program Files (x86)". The installation path should not contain any spaces. Use C:\cygwin or C:\gnuwin32, for example.
 
 <span class="btn btn-success">Running&Debugging</span>  
