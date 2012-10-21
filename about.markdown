@@ -33,10 +33,4 @@ or follow
 to reach me
 
 
-<script>
-$(function(){
-  $(document).keydown(function(e) {
-    window.location = google.com;
 
-})
-</script>
