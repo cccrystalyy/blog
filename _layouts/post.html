@@ -31,6 +31,22 @@ layout: default
     {% endif %}
   </section>
 
+  <hr>
+  <ul class="pager">
+      {% if page.previous %}
+      <li class="previous">
+      <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+      </li>
+      {% endif %} <small>按 j 或 k 翻页</small>
+      {% if page.next %} 
+      <li class="next">
+      <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
+      </li>
+      {% endif %}   
+  </ul>
+  </hr>
+
+
   {% if page.guid %}
   <section class="comment">
 

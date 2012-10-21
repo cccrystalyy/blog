@@ -36,5 +36,29 @@
         </div>
         <footer>&copy; 2006 ~ 2012 Y.Zhao | powered by jekyll | powered by bootstrap | themed by <a href="http://lhzhang.com" title="sext iv">sext iv</a> | fork <a href="https://github.com/cccrystalyy/blog" title="fork me">me</a></footer>
       </div> <!-- main -->
+
+
+    {% if page.url != "/" %}
+      <script>
+      $(function(){
+        $(document).keydown(function(e) {
+          var url = false;
+              if (e.which == 37 || e.which == 74) {  // Left arrow key code
+                  {% if page.previous %}
+              url = '{{page.previous.url}}';
+              {% endif %}
+              }
+              else if (e.which == 39 || e.which == 75) {  // Right arrow key code
+                  {% if page.next %}
+              url = '{{page.next.url}}';
+              {% endif %}
+              }
+              if (url) {
+                  window.location = url;
+              }
+        });
+      })
+      </script>
+    {% endif %}
   </body>
 </html>
