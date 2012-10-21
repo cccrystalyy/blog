@@ -35,12 +35,12 @@ layout: default
   <ul class="pager">
       {% if page.previous %}
       <li class="previous">
-      <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+      <a href="/blog/{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
       </li>
       {% endif %} <small>按 j 或 k 翻页</small>
       {% if page.next %} 
       <li class="next">
-      <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
+      <a href="/blog/{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
       </li>
       {% endif %}   
   </ul>
@@ -53,6 +53,30 @@ layout: default
 
 
   <div id="disqus_thread"></div>
+
+  <script>
+  $(function(){
+    $(document).keydown(function(e) {
+      var url = false;
+          if (e.which == 37 || e.which == 74) {  // Left arrow key code
+              {% if page.previous %}
+              url = '{{page.previous.url}}';
+          {% endif %}
+          }
+          else if (e.which == 39 || e.which == 75) {  // Right arrow key code
+              {% if page.next %}
+              url = '{{page.next.url}}';
+          {% endif %}
+          }
+          if (url) {
+              window.location = url;
+          }
+    });
+  })
+  </script>
+
+
+
   <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
       var disqus_shortname = 'silentlistener'; // required: replace example with your forum shortname
