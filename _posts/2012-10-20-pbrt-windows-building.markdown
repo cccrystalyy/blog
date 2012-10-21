@@ -25,5 +25,5 @@ tags:
 
 <span class="btn btn-success">Running&Debugging</span>  
 Build完成之后，会在bin文件夹里生成pbrt.exe. 要渲染一个场景,打开power shell输入:
-> cd PathToPbrt
+> cd PathToPbrt  
   .\bin\pbrt.exe .\scenses\bunny.pbrt
