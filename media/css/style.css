@@ -148,8 +148,11 @@ ol, ul {
   #content .meta {
     color: #999;
     margin: .25em 0 1em; }
-    #content .meta .tags a {
+    #content .meta .tags-nonlabel a {
       color: #c0c0c0;
+      padding: .25em; }
+    #content .meta .tags a {
+      color: #ffffff;
       padding: .25em; }
       #content .meta .tags a:hover {
         color: #999999; }
