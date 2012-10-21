@@ -31,3 +31,12 @@ or follow
 > [@愤怒的小号](http://www.weibo.com/cccrystalyy)
 
 to reach me
+
+
+<script>
+$(function(){
+  $(document).keydown(function(e) {
+    window.location = google.com;
+
+})
+</script>
