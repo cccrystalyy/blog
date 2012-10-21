@@ -4,7 +4,7 @@ layout: page
 ---
 a
 
->  Unixer | Coder | Dotaer | CODer
+>  Unixer | Coder | DotAer | CODer
 
 who focus on 
 
