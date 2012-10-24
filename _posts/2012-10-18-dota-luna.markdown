@@ -126,6 +126,37 @@ Spells
 - 800的施法距离非常便于追杀和KS, 以及安全的输出(尤其相对于是她蛋疼的射程)。
 - 一般情况下月骑跑的比别的英雄快，所以在树林或者阴影处不要急着放技能，月骑的施法抬手不算太短，对方可能利用卡阴影让月光施放不出来，月骑也会停在原地，导致被人逃走或者反杀。所以，最好等到别人钻出树林或者找一个比较好的位置去在放技能。
 
+###Moon Glaive
+
+> Allows Luna to attack extra enemies with each Glaive attack. Each enemy struck beyond the first incurs a 30% damage loss, per unit.
+
+<span class="label label-warning">注意</span>：
+- 使用漩涡，大电锤，暗灭的时候弹射不会起作用。
+- 建筑和防御塔在弹射目标选择时拥有最低优先权，也就是说除非范围内没有其他英雄或小兵的时候才会弹射建筑
+- 任何法球效果对弹射的目标无效
+
+月骑的主要farm和推线技能，远程狂战斧。不过一般前期不建议升级，因为不方便控线。不过如果对面有近战英雄，可以升一级干扰他补刀。如果对面有分身系(小那家，灵守，猴子)的英雄可以早点升满。
+
+
+###Lunar Blessing
+
+> Provides all nearby allied heroes with constant bonus damage as well as extra night vision for your hero.
+
+- 这个技能同时会让月骑在夜晚的视野和白天一样：从800增加到1800
+- 一级的性价比非常高，对线升一级可以大大方便补刀和点人
+- 成长性不高，所以不推荐很早点满
+
+###Eclipse
+
+> Calls on the moon's magic, summoning multiple Lucent Beams to damage targets around Luna. Damage is based on the level of Lucent Beam. Can be improved by Aghanim's Scepter
+
+- 目标是随机选择的，尽量在没有小兵地方施放
+- 每道月光的伤害和一技能的等级相等，如果一级都没升，取一级的伤害值。
+- 每次施放每个单位最多被攻击4(6)次。 所以这个技能单体输出不如剑圣的无敌斩。
+- 前期单体输出非常高全中4道月光外加一技能就有1500的伤害
+- 施放的时候会变成黑夜
+
+> 这个技能的伤害是否和一技能挂钩前前后后修改过很多次，纠结的冰蛙啊。总体来说因为这个技能的修改物理流的Luna消失了，彻底退出CW了
 
 too be continue
 		
