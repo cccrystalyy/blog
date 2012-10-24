@@ -130,8 +130,7 @@ Spells
 
 > Allows Luna to attack extra enemies with each Glaive attack. Each enemy struck beyond the first incurs a 30% damage loss, per unit.
 
-<span class="label label-warning">注意</span>:
-
+<span class="label label-warning">注意</span>:  
 - 使用漩涡，大电锤，暗灭的时候弹射不会起作用。
 - 建筑和防御塔在弹射目标选择时拥有最低优先权，也就是说除非范围内没有其他英雄或小兵的时候才会弹射建筑
 - 任何法球效果对弹射的目标无效
