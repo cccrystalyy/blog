@@ -29,7 +29,7 @@ Build完成之后，会在bin文件夹里生成pbrt.exe. 要渲染一个场景,�
   .\bin\pbrt.exe .\scenses\bunny.pbrt
 
 <span class="label label-warning">注意</span>: 使用VS2012 Debugging时要注意路径问题，VS处理反斜杠有点点问题，所以我修改了属性里的debugging 设定。
-![VS2012PBRT](http://imgur.com/sAotK)
+![VS2012PBRT](http://i.imgur.com/sAotK.png)
 
 
 > PS: 渲染程序的入口在 api.cpp的1142行，当yyparser检测到World End的时候。
