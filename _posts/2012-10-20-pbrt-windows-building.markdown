@@ -8,7 +8,6 @@ tags:
   - Graphic
   - VS2012
   - RayTracing
-lastUpDate: 2012.10.30
 ---
 ##Preparation
 首先下载安装VS2012，之所以用这个版本是因为个人还是很喜欢metro风格的app的，尤其是相比VS2010看上去好看很多。  
