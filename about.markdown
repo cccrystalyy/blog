@@ -12,7 +12,7 @@ who focus on
 
 who intesets in 
 
->  Everything about Computer Science and Mathematics | Computer Games | Classical music | Badminton&Football 
+>  Everything about Computer Science and Mathematics | Computer Games | Classical music 
 
 who plays
 
