@@ -3,6 +3,6 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 name: SilentListener
 markdown: rdiscount
-url: cccrystalyy.github.com/blog
+url: silentListener.me/blog
 author: Yangyang Zhao
 subURL: /blog
