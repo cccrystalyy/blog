@@ -18,9 +18,13 @@ who plays
 
 > Dota | Call of Duty | StarCraft II | and a lot of games
 
+study at
+
+> University of Montreal
+
 who can be found in
 
-> [github](https://github.com/cccrystalyy) [Google plus](https://plus.google.com/103939286317705041310/posts)
+> [github](https://github.com/cccrystalyy) [Google plus](https://plus.google.com/u/0/103939286317705041310/about)
 
 mail 
 
