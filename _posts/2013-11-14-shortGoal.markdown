@@ -24,7 +24,6 @@ tags:
             * Exam in mathematica
     * How to implement it?
         * libsh 
-
 * Radiance Cache part 
     * Extrapolation& interpolation 
     * Radius 
