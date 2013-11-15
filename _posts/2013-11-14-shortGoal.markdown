@@ -1,9 +1,9 @@
 ---
-title: shortGoal
+title: Recent Work 
 layout: post
 guid: urn:uuid:6e112cce-40d8-4944-b8e8-1c27a8f331f1
 tags:
-  - Plans
+  - Notes
   - MS Project
   - RCache
 ---
@@ -37,6 +37,7 @@ tags:
         * Ward approach -> Stratification based(dont need to compute dhdx, dhdy) 
             * better result with occlussion 
         * Solid angle based  -> analytical result (need dhdx, dhdy)
+            * Pre computed dhdx, dhdy
     * Cache generation 
         * One ray per pixel 
     * Rotation 

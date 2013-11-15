@@ -1,0 +1,14 @@
+---
+title: Unsolved
+layout: post
+guid: urn:uuid:c98ff89b-a513-4b1d-bd77-0bd838828b7f
+tags:
+  - Note
+  - RCache
+  - MS Project
+---
+
+1. How to simplify angular and cartesian formula? Which one or both ?
+2. How to verify it is correct hessian ?
+3. How to implement, any trick can be applied ?
+
