@@ -11,5 +11,6 @@ tags:
 1. How to simplify angular and cartesian formula? Which one or both ?
 2. How to verify it is correct hessian ?
     * finite difference 
+        * angular is correct, why cartesian formula is wrong 
 3. How to implement, any trick can be applied ?
 
