@@ -9,7 +9,7 @@ tags:
 To Read:
 -------
 - Answer to Job
-- 沉默
+- 全球通史
 - 南斯拉夫史
 
 To Know:
@@ -20,6 +20,7 @@ To Know:
 
 To Do:
 -------
+- BRDF in SH representation 
     
 
 
