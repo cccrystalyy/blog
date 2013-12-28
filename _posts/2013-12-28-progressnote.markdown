@@ -15,5 +15,5 @@ tags:
 
 - TODO: convert the index system from i to l,m 
 
-- Using the precomputed  transfer matrix to store the data of brdf, using the fact that L = Y*(B*c) = (Y*B)*c
+- Using the precomputed  transfer matrix to store the data of brdf, using the fact that L = Y\*(B\*c) = (Y\*B)\*c
 
