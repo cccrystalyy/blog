@@ -1,0 +1,184 @@
+---
+title: 给徒儿的Dota攻略-Luna
+layout: post
+guid: urn:uuid:0cf2280d-c492-4f1b-b4c5-48fe6050b215
+tags:
+  - Dota
+  - ForAlice
+---
+
+
+Moon Rider: Luna
+================
+<br />
+
+Statistic
+--------
+- Strength：15 + 1.9
+- __Agitdty__：22 + 2.8
+- Inteltdgence：16 + 1.85
+- Attack Animation(攻击抬手): 0.46 / 0.54 
+- Damage(初始攻击): 48 - 54 
+- Casting Animation(施法抬手): 0.6 / 0.4 
+- Armor(初始护甲): 3.08 
+- Base Attack Time(基础攻击间隔): 1.7 
+- Movespeed(移动速度): 330 
+- Missile Speed(弹道速度): 900
+- Attack Range(射程): 330 
+- Sight Range(视野范围): 1800 / 800
+
+<br />
+Features
+--------
+
+
+#<span class="label label-important">__Advantages__</span> 
+- 全dota最快的初始移动速度，比较便于追杀和逃跑。
+- 不错的抬手和弹道，便于补刀。
+- 因为弹射所以又比较强的推线和Farm能力，以及克制分身系的英雄。
+- 中前期有一定的杀人能力。
+- _“月骑长得好看”_  ----by Alice 
+<br />
+
+<span class="label label-important">__Disadvantages__</span>  
+- __脆__！护甲血量都不是很优秀，也没有任何逃生技能，非常容易被秒。
+- 非常依赖装备去获得较高的DPS和生存能力，所以前中期要少死多杀人。
+- 射程很近，所以线上容易被点，加上本身脆弱，遇到强势英雄很难线补刀，因为是远程英雄，经验获得的会更少。
+>被反补的小兵在1000范围内给肉搏英雄提供36/n经验值,给远程英雄提供18/n经验值(n＝1000范围内英雄数量)。  
+<br />
+
+Spells  
+------  
+
+###Lucent Beam 
+
+>Luna concentrates on the moon's energy and channels it forcefully to the surface, damaging an enemy unit. Stuns for a short duration.  
+
+<table class="table">
+	<caption>Lucent Beam</caption>
+	<tr>
+		<td >Level</td>
+		<td >Mana Cost</td>
+		<td >Cooldown</td>
+		<td >Casting range</td>
+		<td >Area of Effect</td>
+		<td >Duration</td>
+		<td >Allowed Targets</td>
+		<td >Effects</td>
+	</tr>
+	<tr>
+		<td >1</td>
+		<td >90</td>
+		<td >6</td>
+		<td >800</td>
+		<td >N/A</td>
+		<td >0.6 seconds</td>
+		<td >Enemy units</td>
+		<td >Deals 75 Damage, and a ministun</td>
+	</tr>
+
+	<tr>
+		<td >1</td>
+		<td >90</td>
+		<td >6</td>
+		<td >800</td>
+		<td >N/A</td>
+		<td >0.6 seconds</td>
+		<td >Enemy units</td>
+		<td >Deals 75 Damage, and a ministun</td>
+	</tr>
+
+	<tr>
+		<td >2</td>
+		<td >100</td>
+		<td >6</td>
+		<td >800</td>
+		<td >N/A</td>
+		<td >0.6 seconds</td>
+		<td >Enemy units</td>
+		<td >Deals 150 Damage, and a ministun</td>
+	</tr>
+
+	<tr>
+		<td >3</td>
+		<td >110</td>
+		<td >6</td>
+		<td >800</td>
+		<td >N/A</td>
+		<td >0.6 seconds</td>
+		<td >Enemy units</td>
+		<td >Deals 225 Damage, and a ministun</td>
+	</tr>
+	<tr>
+		<td >4</td>
+		<td >120</td>
+		<td >6</td>
+		<td >800</td>
+		<td >N/A</td>
+		<td >0.6 seconds</td>
+		<td >Enemy units</td>
+		<td >Deals 300 Damage, and a ministun</td>
+	</tr>
+</table>
+  
+- 6秒的CD非常短，一般情况下可以再一次战斗中放两到三次。
+- 耗魔不多，可以随意施放，逆风的时候可以用来补刀。
+- 800的施法距离非常便于追杀和KS, 以及安全的输出(尤其相对于是她蛋疼的射程)。
+- 一般情况下月骑跑的比别的英雄快，所以在树林或者阴影处不要急着放技能，月骑的施法抬手不算太短，对方可能利用卡阴影让月光施放不出来，月骑也会停在原地，导致被人逃走或者反杀。所以，最好等到别人钻出树林或者找一个比较好的位置去在放技能。
+
+###Moon Glaive
+
+> Allows Luna to attack extra enemies with each Glaive attack. Each enemy struck beyond the first incurs a 30% damage loss, per unit.
+
+<span class="label label-warning">注意</span>:  
+- 使用漩涡，大电锤，暗灭的时候弹射不会起作用。
+- 建筑和防御塔在弹射目标选择时拥有最低优先权，也就是说除非范围内没有其他英雄或小兵的时候才会弹射建筑
+- 任何法球效果对弹射的目标无效
+
+月骑的主要farm和推线技能，远程狂战斧。不过一般前期不建议升级，因为不方便控线。不过如果对面有近战英雄，可以升一级干扰他补刀。如果对面有分身系(小那家，灵守，猴子)的英雄可以早点升满。
+
+
+###Lunar Blessing
+
+> Provides all nearby allied heroes with constant bonus damage as well as extra night vision for your hero.
+
+- 这个技能同时会让月骑在夜晚的视野和白天一样：从800增加到1800
+- 一级的性价比非常高，对线升一级可以大大方便补刀和点人
+- 成长性不高，所以不推荐很早点满
+
+###Eclipse
+
+> Calls on the moon's magic, summoning multiple Lucent Beams to damage targets around Luna. Damage is based on the level of Lucent Beam. Can be improved by Aghanim's Scepter
+
+- 目标是随机选择的，尽量在没有小兵地方施放
+- 每道月光的伤害和一技能的等级相等，如果一级都没升，取一级的伤害值。
+- 每次施放每个单位最多被攻击4(6)次。 所以这个技能单体输出不如剑圣的无敌斩。
+- 前期单体输出非常高全中4道月光外加一技能就有1500的伤害
+- 施放的时候会变成黑夜
+
+> 这个技能的伤害是否和一技能挂钩前前后后修改过很多次，纠结的冰蛙啊。总体来说因为这个技能的修改物理流的Luna消失了，彻底退出CW了
+
+
+Build
+-----
+
+###Early Game
+
+前期一般情况下是前期主C副黄点一级光环有大升大。视情况可以把黄点换成其他技能，不过主C应该是不会变的，没有C的月骑前期就一点用都没有了。月骑各方面的属性都需要，所以前期需要幽灵系带假腿之类的来增加属性，当然如果特别顺风可以把假腿换成相位来加强输出。圣殿也是个很推荐的选择，可以和幽灵系带合成天鹰之戒。如果走的是中路推荐出个瓶子控符，6级之后可以考虑游走上路下路。
+
+
+###Mid Game
+到了中期优先加满所有技能，因为这时候黄点的作用没有那么大了，高等级的技能可以加快中期farm速度。这时候视情况可以先出黑黄或者分身，如果对面AOE不多控制也不多就先出分身，如果AOE充足就先出黑黄。视情况可以出支配。这段时间有了基本装备的月骑打钱很快，这个时期如果条件允许，最好利用弹射尽量刷钱，线野双刷。如果前期优势可以考虑多和队友推塔团战，不要只顾打钱。劣势的话要猥琐一些尽量不要被抓，如果可能多守塔。
+
+Tips:
+- 虽然这时候靠一个大秒人已经不那么现实了，看到落单的英雄不要冲动，尽量和队友一起抓人
+- 团战中如果小兵不多一定要果断开大，一个大的AOE是非常重要的。
+- 月骑很脆，不要站在最前面，最好等队友控制住或者对面技能放过一轮之后再切入。
+
+
+###Late Game
+
+后期的月骑需要装备来支撑，如果到了40分钟装备还落后很多，后期基本很难有所作为。推荐的装备：分身，黑黄，蝴蝶，撒旦，大炮。保证生存能力的情况下尽量增加输出，可以把假腿换成飞鞋增加机动性。可以多多利用机动性推线，必要的时候可以对拆，月骑分身加上弹射拆塔很快(弹射对建筑有效)。
+
+<span class="label label-important">注意！！</span>  虽然作为一个后期，但是月骑的单挑能力还是比较弱的，即使有一定的装备优势，也不要和别的大后期(PA，巨魔，拍拍熊，小黑，等等)单挑对A， 很容易被秒。 团战中优先切入后方，去秒对方的法师和辅助。然后再去和队友配合去打对方的核心。
+
