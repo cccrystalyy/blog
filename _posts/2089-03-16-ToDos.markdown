@@ -6,21 +6,20 @@ tags:
   - Todo 
 ---
 
-To Read:
+Reading:
 -------
 - Answer to Job
 - 全球通史
 - 南斯拉夫史
+- 霍乱时期的爱情
+
 
 To Know:
 -------
-- 巴尔干半岛历史
-- 基督教史
+- 巴尔干半岛古代史
+- WebGL  
 
 
-To Do:
--------
-- BRDF in SH representation 
-    
+
 
 
